@@ -1,0 +1,4 @@
+<!-- yes, it’s just the website i’m trying to build. I’ll send you a picture, but it’s basically meant to just display the data and give a short description about it. So, i’m thinking. Header: Visual representation of greenhouse gas emissions by industry in Nigeria. Short description: This graph shows the amount of greenhouse gases emitted in million metric tons of CO2 equivalent and the corresponding industries responsible for emitting these gases. This gives an idea of which industry is responsible for the most emissions and which GHGs are most common in Nigeria. -->
+<!-- <iframe width="700" height="400" frameborder="0" scrolling="no" src="https://chart-studio.plotly.com/~Almapian/1.embed?link=false"></iframe> -->
+
+# Alfatihi's Greenhouse Emissions Analysis
